@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Norse-Bold;
+    src: url(/images/Norse-Bold.otf)
+}
+
+h1 {
+    font-family: Norse-bold, sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+
+.left {
+    background-image: url(/images/halie-west-25xggax4bSA-unsplash.jpg);
+}
